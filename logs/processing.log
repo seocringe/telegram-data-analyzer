@@ -1,0 +1,5 @@
+Error processing file: [Errno 2] No such file or directory: 'result.json'
+Error processing file: lexical error: inside a string, '\' occurs before a character which it may not.
+           слово",       "data": "\x0Csee_word"      }     ],    
+                     (right here) ------^
+

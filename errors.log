@@ -1,0 +1,13 @@
+2024-02-24T13:13:15.446Z - Error processing file Your input file path or identifier
+Error: Invalid JSON (Unexpected "x" at position 58113 in state STOP)
+    at proto.charError (/home/ars/gh/telegram-data-analyzer/node_modules/jsonparse/jsonparse.js:90:16)
+    at proto.write (/home/ars/gh/telegram-data-analyzer/node_modules/jsonparse/jsonparse.js:213:21)
+    at Stream.<anonymous> (/home/ars/gh/telegram-data-analyzer/node_modules/JSONStream/index.js:23:12)
+    at stream.write (/home/ars/gh/telegram-data-analyzer/node_modules/through/index.js:26:11)
+    at ReadStream.ondata (node:internal/streams/readable:1007:22)
+    at ReadStream.emit (node:events:519:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Readable.push (node:internal/streams/readable:390:5)
+    at node:internal/fs/streams:289:14
+
