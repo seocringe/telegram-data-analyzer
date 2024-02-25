@@ -1,5 +1,3 @@
-
-
 const beautify = (result, config) => {
     let answer = "This chat consists of: ";
     let members = []
