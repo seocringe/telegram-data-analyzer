@@ -1,0 +1,1326 @@
+header: {
+  name: 'AMG v4.0 chat',
+  type: 'private_supergroup',
+  id: 1831852655,
+  messages: [
+    {
+      id: 1,
+      type: 'service',
+      date: '2023-01-06T14:18:07',
+      date_unixtime: '1673007487',
+      actor: 'AMG v4.0 chat',
+      actor_id: 'channel1831852655',
+      action: 'migrate_from_group',
+      title: 'AMG v4.0 chat',
+      full_text: '',
+      text: '',
+      text_entities: []
+    },
+    {
+      id: 2,
+      type: 'service',
+      date: '2023-01-06T14:29:02',
+      date_unixtime: '1673008142',
+      actor: null,
+      actor_id: 'user1568512057',
+      action: 'join_group_by_link',
+      inviter: 'Group',
+      full_text: '',
+      text: '',
+      text_entities: []
+    },
+    {
+      id: 3,
+      type: 'service',
+      date: '2023-01-06T14:29:08',
+      date_unixtime: '1673008148',
+      actor: '𝕀𝕔𝕖 𝔹𝕒𝕓𝕪 🥵🔥',
+      actor_id: 'user2130855862',
+      action: 'join_group_by_link',
+      inviter: 'Group',
+      full_text: '',
+      text: '',
+      text_entities: []
+    },
+    {
+      id: 4,
+      type: 'service',
+      date: '2023-01-06T14:29:13',
+      date_unixtime: '1673008153',
+      actor: null,
+      actor_id: 'user5193469066',
+      action: 'join_group_by_link',
+      inviter: 'Group',
+      full_text: '',
+      text: '',
+      text_entities: []
+    },
+    {
+      id: 5,
+      type: 'service',
+      date: '2023-01-06T14:29:46',
+      date_unixtime: '1673008186',
+      actor: null,
+      actor_id: 'user1568512057',
+      action: 'invite_members',
+      members: [Array],
+      full_text: '',
+      text: '',
+      text_entities: []
+    },
+    {
+      id: 6,
+      type: 'service',
+      date: '2023-01-06T14:29:46',
+      date_unixtime: '1673008186',
+      actor: null,
+      actor_id: 'user1568512057',
+      action: 'invite_members',
+      members: [Array],
+      full_text: '',
+      text: '',
+      text_entities: []
+    },
+    {
+      id: 7,
+      type: 'service',
+      date: '2023-01-06T14:29:47',
+      date_unixtime: '1673008187',
+      actor: null,
+      actor_id: 'user1568512057',
+      action: 'invite_members',
+      members: [Array],
+      full_text: '',
+      text: '',
+      text_entities: []
+    },
+    {
+      id: 8,
+      type: 'service',
+      date: '2023-01-06T14:29:47',
+      date_unixtime: '1673008187',
+      actor: null,
+      actor_id: 'user5193469066',
+      action: 'invite_members',
+      members: [Array],
+      full_text: '',
+      text: '',
+      text_entities: []
+    },
+    {
+      id: 9,
+      type: 'service',
+      date: '2023-01-06T14:29:51',
+      date_unixtime: '1673008191',
+      actor: null,
+      actor_id: 'user5193469066',
+      action: 'invite_members',
+      members: [Array],
+      full_text: '',
+      text: '',
+      text_entities: []
+    },
+    {
+      id: 10,
+      type: 'service',
+      date: '2023-01-06T14:30:27',
+      date_unixtime: '1673008227',
+      actor: null,
+      actor_id: 'user5193469066',
+      action: 'invite_members',
+      members: [Array],
+      full_text: '',
+      text: '',
+      text_entities: []
+    },
+    {
+      id: 11,
+      type: 'service',
+      date: '2023-01-06T14:30:56',
+      date_unixtime: '1673008256',
+      actor: '𝓥𝓮𝓻𝓷𝓪𝔂𝓪 🌹🔮',
+      actor_id: 'user1772005856',
+      action: 'join_group_by_link',
+      inviter: 'Group',
+      full_text: '',
+      text: '',
+      text_entities: []
+    },
+    {
+      id: 12,
+      type: 'message',
+      date: '2023-01-06T14:31:11',
+      date_unixtime: '1673008271',
+      edited: '2023-01-06T14:31:17',
+      edited_unixtime: '1673008277',
+      from: '𝓥𝓮𝓻𝓷𝓪𝔂𝓪 🌹🔮',
+      from_id: 'user1772005856',
+      full_text: 'Всем привет',
+      text: 'Всем привет',
+      text_entities: [Array]
+    },
+    {
+      id: 13,
+      type: 'service',
+      date: '2023-01-06T14:31:15',
+      date_unixtime: '1673008275',
+      actor: null,
+      actor_id: 'user5611491613',
+      action: 'join_group_by_link',
+      inviter: 'Group',
+      full_text: '',
+      text: '',
+      text_entities: []
+    },
+    {
+      id: 14,
+      type: 'message',
+      date: '2023-01-06T14:31:24',
+      date_unixtime: '1673008284',
+      from: null,
+      from_id: 'user5193469066',
+      full_text: 'Привет',
+      text: 'Привет',
+      text_entities: [Array]
+    },
+    {
+      id: 15,
+      type: 'message',
+      date: '2023-01-06T14:31:28',
+      date_unixtime: '1673008288',
+      from: 'Ⓑⓛⓤⓔⓑⓔⓡⓡⓨ.ⓗⓨⓛⓔ',
+      from_id: 'user1643704834',
+      full_text: 'Доброго времени суток',
+      text: 'Доброго времени суток',
+      text_entities: [Array]
+    },
+    {
+      id: 16,
+      type: 'message',
+      date: '2023-01-06T14:31:36',
+      date_unixtime: '1673008296',
+      edited: '2023-01-06T14:31:38',
+      edited_unixtime: '1673008298',
+      from: null,
+      from_id: 'user5900833273',
+      full_text: 'салам',
+      text: 'салам',
+      text_entities: [Array]
+    },
+    {
+      id: 17,
+      type: 'message',
+      date: '2023-01-06T14:31:54',
+      date_unixtime: '1673008314',
+      from: 'Ⓑⓛⓤⓔⓑⓔⓡⓡⓨ.ⓗⓨⓛⓔ',
+      from_id: 'user1643704834',
+      reply_to_message_id: 16,
+      full_text: '🤝',
+      text: '🤝',
+      text_entities: [Array]
+    },
+    {
+      id: 18,
+      type: 'service',
+      date: '2023-01-06T14:32:00',
+      date_unixtime: '1673008320',
+      actor: 'ᱚᱛዘ ᱚᱢ𐌲ᱢᱚᱛዘ',
+      actor_id: 'user991641852',
+      action: 'join_group_by_link',
+      inviter: 'Group',
+      full_text: '',
+      text: '',
+      text_entities: []
+    },
+    {
+      id: 19,
+      type: 'message',
+      date: '2023-01-06T14:32:07',
+      date_unixtime: '1673008327',
+      from: null,
+      from_id: 'user5193469066',
+      full_text: 'Класненько',
+      text: 'Класненько',
+      text_entities: [Array]
+    },
+    {
+      id: 20,
+      type: 'message',
+      date: '2023-01-06T14:32:16',
+      date_unixtime: '1673008336',
+      from: null,
+      from_id: 'user5193469066',
+      full_text: 'Нас пока 15',
+      text: 'Нас пока 15',
+      text_entities: [Array]
+    },
+    {
+      id: 21,
+      type: 'message',
+      date: '2023-01-06T14:32:20',
+      date_unixtime: '1673008340',
+      from: 'Хомка💙💛',
+      from_id: 'user625598334',
+      full_text: 'А что тут?',
+      text: 'А что тут?',
+      text_entities: [Array]
+    },
+    {
+      id: 22,
+      type: 'message',
+      date: '2023-01-06T14:32:23',
+      date_unixtime: '1673008343',
+      from: 'Ⓑⓛⓤⓔⓑⓔⓡⓡⓨ.ⓗⓨⓛⓔ',
+      from_id: 'user1643704834',
+      full_text: 'Приглашайте всех сюда пожалуйста',
+      text: 'Приглашайте всех сюда пожалуйста',
+      text_entities: [Array]
+    },
+    {
+      id: 23,
+      type: 'message',
+      date: '2023-01-06T14:32:30',
+      date_unixtime: '1673008350',
+      from: 'Ⓑⓛⓤⓔⓑⓔⓡⓡⓨ.ⓗⓨⓛⓔ',
+      from_id: 'user1643704834',
+      reply_to_message_id: 21,
+      full_text: 'Новая группа просто',
+      text: 'Новая группа просто',
+      text_entities: [Array]
+    },
+    {
+      id: 24,
+      type: 'message',
+      date: '2023-01-06T14:32:45',
+      date_unixtime: '1673008365',
+      edited: '2023-01-06T14:33:03',
+      edited_unixtime: '1673008383',
+      from: 'Хомка💙💛',
+      from_id: 'user625598334',
+      full_text: 'Меня и в старой не было',
+      text: 'Меня и в старой не было',
+      text_entities: [Array]
+    },
+    {
+      id: 25,
+      type: 'message',
+      date: '2023-01-06T14:33:07',
+      date_unixtime: '1673008387',
+      from: 'Ⓑⓛⓤⓔⓑⓔⓡⓡⓨ.ⓗⓨⓛⓔ',
+      from_id: 'user1643704834',
+      reply_to_message_id: 24,
+      full_text: '😂',
+      text: '😂',
+      text_entities: [Array]
+    },
+    {
+      id: 26,
+      type: 'message',
+      date: '2023-01-06T14:33:13',
+      date_unixtime: '1673008393',
+      from: 'Ⓑⓛⓤⓔⓑⓔⓡⓡⓨ.ⓗⓨⓛⓔ',
+      from_id: 'user1643704834',
+      full_text: 'Понял',
+      text: 'Понял',
+      text_entities: [Array]
+    },
+    {
+      id: 27,
+      type: 'message',
+      date: '2023-01-06T14:33:39',
+      date_unixtime: '1673008419',
+      from: null,
+      from_id: 'user5611491613',
+      forwarded_from: null,
+      file: 'video_files/video_1@06-01-2023_14-33-39.mp4',
+      thumbnail: 'video_files/video_1@06-01-2023_14-33-39.mp4_thumb.jpg',
+      media_type: 'animation',
+      mime_type: 'video/mp4',
+      duration_seconds: 5,
+      width: 720,
+      height: 1280,
+      full_text: 'Снял косание двушку бошек 🔥🔥🔥\n' +
+        'С наступающим новым годом ребята 🔥👽👽',
+      text: 'Снял косание двушку бошек 🔥🔥🔥\n' +
+        'С наступающим новым годом ребята 🔥👽👽',
+      text_entities: [Array]
+    },
+    {
+      id: 28,
+      type: 'message',
+      date: '2023-01-06T14:33:39',
+      date_unixtime: '1673008419',
+      from: null,
+      from_id: 'user5611491613',
+      forwarded_from: '𝓥𝓮𝓻𝓷𝓪𝔂𝓪 🌹🔮',
+      photo: 'photos/photo_1@06-01-2023_14-33-39.jpg',
+      width: 720,
+      height: 1280,
+      media_group_id: 0,
+      full_text: 'Спасибочки большое всё ок.\n' +
+        'Бот супер тоже.быстро выдаёт фото клада.\n' +
+        'Оператору вообще респект.\n' +
+        'Очень помог по месту и с уточнением хоть и прошло 4 дня \n' +
+        'Всем советую ровный шоп +++\n' +
+        'Беру не первый раз.\n' +
+        'Самое главное что не послал как другие шопы....',
+      text: 'Спасибочки большое всё ок.\n' +
+        'Бот супер тоже.быстро выдаёт фото клада.\n' +
+        'Оператору вообще респект.\n' +
+        'Очень помог по месту и с уточнением хоть и прошло 4 дня \n' +
+        'Всем советую ровный шоп +++\n' +
+        'Беру не первый раз.\n' +
+        'Самое главное что не послал как другие шопы....',
+      text_entities: [Array]
+    },
+    {
+      id: 29,
+      type: 'message',
+      date: '2023-01-06T14:33:39',
+      date_unixtime: '1673008419',
+      from: null,
+      from_id: 'user5611491613',
+      forwarded_from: 'I I',
+      photo: 'photos/photo_2@06-01-2023_14-33-39.jpg',
+      width: 960,
+      height: 1280,
+      media_group_id: 0,
+      full_text: '',
+      text: '',
+      text_entities: []
+    },
+    {
+      id: 30,
+      type: 'message',
+      date: '2023-01-06T14:33:39',
+      date_unixtime: '1673008419',
+      from: null,
+      from_id: 'user5611491613',
+      forwarded_from: 'I I',
+      full_text: 'Все  огонь взял и снял на легке 0.25 так сказать на изи 😁😁',
+      text: 'Все  огонь взял и снял на легке 0.25 так сказать на изи 😁😁',
+      text_entities: [Array]
+    },
+    {
+      id: 31,
+      type: 'message',
+      date: '2023-01-06T14:33:39',
+      date_unixtime: '1673008419',
+      from: null,
+      from_id: 'user5611491613',
+      forwarded_from: 'ᱚᱛዘ ᱚᱢ𐌲ᱢᱚᱛዘ',
+      photo: 'photos/photo_3@06-01-2023_14-33-39.jpg',
+      width: 590,
+      height: 748,
+      media_group_id: 0,
+      full_text: 'Коротко о главном:\n' +
+        'Брали ребята 0.25ск в Днепре, всем остались довольны, место сложновато было отыскать из-за дождя и темного времени суток, но тем не менее справились.\n' +
+        'Спасибо за четкую работу, клиенты не остались равнодушными к вашему сервису 😉\n' +
+        'Успехов и процветания,бро 🤜🤛',
+      text: 'Коротко о главном:\n' +
+        'Брали ребята 0.25ск в Днепре, всем остались довольны, место сложновато было отыскать из-за дождя и темного времени суток, но тем не менее справились.\n' +
+        'Спасибо за четкую работу, клиенты не остались равнодушными к вашему сервису 😉\n' +
+        'Успехов и процветания,бро 🤜🤛',
+      text_entities: [Array]
+    },
+    {
+      id: 32,
+      type: 'message',
+      date: '2023-01-06T14:33:39',
+      date_unixtime: '1673008419',
+      from: null,
+      from_id: 'user5611491613',
+      forwarded_from: '🕸️',
+      photo: 'photos/photo_4@06-01-2023_14-33-39.jpg',
+      width: 960,
+      height: 1280,
+      media_group_id: 0,
+      full_text: '',
+      text: '',
+      text_entities: []
+    },
+    {
+      id: 33,
+      type: 'message',
+      date: '2023-01-06T14:33:39',
+      date_unixtime: '1673008419',
+      from: null,
+      from_id: 'user5611491613',
+      forwarded_from: 'AMG v4.o',
+      full_text: 'Внимание рулетка 🥳\n' +
+        'Условия 💫\n' +
+        'Призы 🎁\n' +
+        '1 место 0.17г мет ☃️\n' +
+        '2 место 1г шиш 🍀\n' +
+        '3 место 0.25г Апвп 💎\n' +
+        'Условия добавления +3 в этот чат   https://t.me/+F232ZJfZQ7ZjMjMy ЗАПИСЬ У МЕНЯ В ЛС(СРАЗУ СО СКРИНАМИ ДОБАВЛЕНИЯ)\n' +
+        'Список участников\n' +
+        '1.\n' +
+        '2.\n' +
+        '3.\n' +
+        '4.\n' +
+        '5.\n' +
+        '6.\n' +
+        '7.\n' +
+        '8.\n' +
+        '9.\n' +
+        '10.\n' +
+        '11.\n' +
+        '12.\n' +
+        '13.\n' +
+        '14.\n' +
+        '15.\n' +
+        '16.\n' +
+        '17.\n' +
+        '18.\n' +
+        '19.\n' +
+        '20.\n' +
+        '21.\n' +
+        '22.\n' +
+        '23.\n' +
+        '24.\n' +
+        '25.\n' +
+        '26.\n' +
+        '27.\n' +
+        '28.\n' +
+        '29.\n' +
+        '30.\n' +
+        'Всем удачи господа',
+      text: [Array],
+      text_entities: [Array]
+    },
+    {
+      id: 34,
+      type: 'message',
+      date: '2023-01-06T14:33:39',
+      date_unixtime: '1673008419',
+      from: null,
+      from_id: 'user5611491613',
+      forwarded_from: 'AMG v4.o',
+      full_text: 'https://t.me/+F232ZJfZQ7ZjMjMy - новый чат !!!',
+      text: [Array],
+      text_entities: [Array]
+    },
+    {
+      id: 35,
+      type: 'message',
+      date: '2023-01-06T14:33:39',
+      date_unixtime: '1673008419',
+      from: null,
+      from_id: 'user5611491613',
+      forwarded_from: 'AMG v4.o',
+      full_text: 'Ребята у нас новый чат,все все все переходим сюда \n' +
+        'https://t.me/+F232ZJfZQ7ZjMjMy😁😁😁',
+      text: [Array],
+      text_entities: [Array]
+    },
+    {
+      id: 36,
+      type: 'service',
+      date: '2023-01-06T14:33:43',
+      date_unixtime: '1673008423',
+      actor: null,
+      actor_id: 'user5611491613',
+      action: 'pin_message',
+      message_id: 33,
+      full_text: '',
+      text: '',
+      text_entities: []
+    },
+    {
+      id: 37,
+      type: 'service',
+      date: '2023-01-06T14:35:05',
+      date_unixtime: '1673008505',
+      actor: '000 000',
+      actor_id: 'user5081747646',
+      action: 'join_group_by_link',
+      inviter: 'Group',
+      full_text: '',
+      text: '',
+      text_entities: []
+    },
+    {
+      id: 38,
+      type: 'message',
+      date: '2023-01-06T14:35:11',
+      date_unixtime: '1673008511',
+      from: null,
+      from_id: 'user1568512057',
+      full_text: 'Опер ЛС',
+      text: 'Опер ЛС',
+      text_entities: [Array]
+    },
+    {
+      id: 39,
+      type: 'service',
+      date: '2023-01-06T14:37:43',
+      date_unixtime: '1673008663',
+      actor: '✨🦋Shena🦋✨',
+      actor_id: 'user5300845593',
+      action: 'join_group_by_link',
+      inviter: 'Group',
+      full_text: '',
+      text: '',
+      text_entities: []
+    },
+    {
+      id: 40,
+      type: 'service',
+      date: '2023-01-06T14:47:43',
+      date_unixtime: '1673009263',
+      actor: '𝓥𝓮𝓻𝓷𝓪𝔂𝓪 🌹🔮',
+      actor_id: 'user1772005856',
+      action: 'invite_members',
+      members: [Array],
+      full_text: '',
+      text: '',
+      text_entities: []
+    },
+    {
+      id: 41,
+      type: 'service',
+      date: '2023-01-06T14:47:43',
+      date_unixtime: '1673009263',
+      actor: '𝓥𝓮𝓻𝓷𝓪𝔂𝓪 🌹🔮',
+      actor_id: 'user1772005856',
+      action: 'invite_members',
+      members: [Array],
+      full_text: '',
+      text: '',
+      text_entities: []
+    },
+    {
+      id: 42,
+      type: 'service',
+      date: '2023-01-06T14:47:43',
+      date_unixtime: '1673009263',
+      actor: '𝓥𝓮𝓻𝓷𝓪𝔂𝓪 🌹🔮',
+      actor_id: 'user1772005856',
+      action: 'invite_members',
+      members: [Array],
+      full_text: '',
+      text: '',
+      text_entities: []
+    },
+    {
+      id: 43,
+      type: 'service',
+      date: '2023-01-06T14:47:43',
+      date_unixtime: '1673009263',
+      actor: '𝓥𝓮𝓻𝓷𝓪𝔂𝓪 🌹🔮',
+      actor_id: 'user1772005856',
+      action: 'invite_members',
+      members: [Array],
+      full_text: '',
+      text: '',
+      text_entities: []
+    },
+    {
+      id: 44,
+      type: 'service',
+      date: '2023-01-06T14:47:43',
+      date_unixtime: '1673009263',
+      actor: '𝓥𝓮𝓻𝓷𝓪𝔂𝓪 🌹🔮',
+      actor_id: 'user1772005856',
+      action: 'invite_members',
+      members: [Array],
+      full_text: '',
+      text: '',
+      text_entities: []
+    },
+    {
+      id: 45,
+      type: 'message',
+      date: '2023-01-06T14:48:21',
+      date_unixtime: '1673009301',
+      from: '𝓥𝓮𝓻𝓷𝓪𝔂𝓪 🌹🔮',
+      from_id: 'user1772005856',
+      reply_to_message_id: 33,
+      photo: 'photos/photo_5@06-01-2023_14-48-21.jpg',
+      width: 591,
+      height: 1280,
+      media_group_id: 0,
+      full_text: '@valtaren142A 9 \n Спасибо поэтому сюда скинула скрин',
+      text: [Array],
+      text_entities: [Array]
+    },
+    {
+      id: 46,
+      type: 'service',
+      date: '2023-01-06T14:48:29',
+      date_unixtime: '1673009309',
+      actor: null,
+      actor_id: 'user5466963045',
+      action: 'join_group_by_link',
+      inviter: 'Group',
+      full_text: '',
+      text: '',
+      text_entities: []
+    },
+    {
+      id: 47,
+      type: 'service',
+      date: '2023-01-06T14:57:37',
+      date_unixtime: '1673009857',
+      actor: 'Legion ⚔️ Support/Поддержка 🔧',
+      actor_id: 'user1888971278',
+      action: 'join_group_by_link',
+      inviter: 'Group',
+      full_text: '',
+      text: '',
+      text_entities: []
+    },
+    {
+      id: 48,
+      type: 'service',
+      date: '2023-01-06T15:08:34',
+      date_unixtime: '1673010514',
+      actor: 'аграфена',
+      actor_id: 'user621150880',
+      action: 'join_group_by_link',
+      inviter: 'Group',
+      full_text: '',
+      text: '',
+      text_entities: []
+    },
+    {
+      id: 49,
+      type: 'message',
+      date: '2023-01-06T15:09:04',
+      date_unixtime: '1673010544',
+      from: 'Хомка💙💛',
+      from_id: 'user625598334',
+      full_text: 'И шо тут делать надо?',
+      text: 'И шо тут делать надо?',
+      text_entities: [Array]
+    },
+    {
+      id: 50,
+      type: 'message',
+      date: '2023-01-06T15:09:17',
+      date_unixtime: '1673010557',
+      edited: '2023-01-06T15:31:18',
+      edited_unixtime: '1673011878',
+      from: 'аграфена',
+      from_id: 'user621150880',
+      full_text: 'быть',
+      text: 'быть',
+      text_entities: [Array]
+    },
+    {
+      id: 51,
+      type: 'message',
+      date: '2023-01-06T15:09:26',
+      date_unixtime: '1673010566',
+      from: 'Legion ⚔️ Support/Поддержка 🔧',
+      from_id: 'user1888971278',
+      full_text: 'Или не быть',
+      text: 'Или не быть',
+      text_entities: [Array]
+    },
+    {
+      id: 52,
+      type: 'message',
+      date: '2023-01-06T15:09:40',
+      date_unixtime: '1673010580',
+      from: 'Хомка💙💛',
+      from_id: 'user625598334',
+      full_text: 'В этом и вопрос',
+      text: 'В этом и вопрос',
+      text_entities: [Array]
+    },
+    {
+      id: 53,
+      type: 'service',
+      date: '2023-01-06T15:23:09',
+      date_unixtime: '1673011389',
+      actor: 'Вапринов Торпакенов',
+      actor_id: 'user5431412633',
+      action: 'join_group_by_link',
+      inviter: 'Group',
+      full_text: '',
+      text: '',
+      text_entities: []
+    },
+    {
+      id: 54,
+      type: 'message',
+      date: '2023-01-06T15:23:40',
+      date_unixtime: '1673011420',
+      from: 'Вапринов Торпакенов',
+      from_id: 'user5431412633',
+      full_text: 'Бразику привіт)',
+      text: 'Бразику привіт)',
+      text_entities: [Array]
+    },
+    {
+      id: 55,
+      type: 'message',
+      date: '2023-01-06T15:31:28',
+      date_unixtime: '1673011888',
+      from: 'Ⓑⓛⓤⓔⓑⓔⓡⓡⓨ.ⓗⓨⓛⓔ',
+      from_id: 'user1643704834',
+      reply_to_message_id: 50,
+      full_text: '😂',
+      text: '😂',
+      text_entities: [Array]
+    },
+    {
+      id: 56,
+      type: 'message',
+      date: '2023-01-06T15:31:39',
+      date_unixtime: '1673011899',
+      edited: '2023-01-06T15:31:45',
+      edited_unixtime: '1673011905',
+      from: 'аграфена',
+      from_id: 'user621150880',
+      reply_to_message_id: 55,
+      full_text: '))',
+      text: '))',
+      text_entities: [Array]
+    },
+    {
+      id: 57,
+      type: 'message',
+      date: '2023-01-06T15:32:03',
+      date_unixtime: '1673011923',
+      from: 'Ⓑⓛⓤⓔⓑⓔⓡⓡⓨ.ⓗⓨⓛⓔ',
+      from_id: 'user1643704834',
+      full_text: 'Как вы господа?',
+      text: 'Как вы господа?',
+      text_entities: [Array]
+    },
+    {
+      id: 58,
+      type: 'service',
+      date: '2023-01-06T15:32:20',
+      date_unixtime: '1673011940',
+      actor: 'аграфена',
+      actor_id: 'user621150880',
+      action: 'invite_members',
+      members: [Array],
+      full_text: '',
+      text: '',
+      text_entities: []
+    },
+    {
+      id: 59,
+      type: 'service',
+      date: '2023-01-06T15:32:20',
+      date_unixtime: '1673011940',
+      actor: 'аграфена',
+      actor_id: 'user621150880',
+      action: 'invite_members',
+      members: [Array],
+      full_text: '',
+      text: '',
+      text_entities: []
+    },
+    {
+      id: 60,
+      type: 'service',
+      date: '2023-01-06T15:32:20',
+      date_unixtime: '1673011940',
+      actor: 'аграфена',
+      actor_id: 'user621150880',
+      action: 'invite_members',
+      members: [Array],
+      full_text: '',
+      text: '',
+      text_entities: []
+    },
+    {
+      id: 61,
+      type: 'message',
+      date: '2023-01-06T15:32:55',
+      date_unixtime: '1673011975',
+      from: 'аграфена',
+      from_id: 'user621150880',
+      full_text: 'кому скрин кидать?',
+      text: 'кому скрин кидать?',
+      text_entities: [Array]
+    },
+    {
+      id: 62,
+      type: 'message',
+      date: '2023-01-06T15:33:18',
+      date_unixtime: '1673011998',
+      from: 'аграфена',
+      from_id: 'user621150880',
+      reply_to_message_id: 57,
+      full_text: 'чудесно',
+      text: 'чудесно',
+      text_entities: [Array]
+    },
+    {
+      id: 63,
+      type: 'message',
+      date: '2023-01-06T15:33:23',
+      date_unixtime: '1673012003',
+      from: 'Ⓑⓛⓤⓔⓑⓔⓡⓡⓨ.ⓗⓨⓛⓔ',
+      from_id: 'user1643704834',
+      reply_to_message_id: 61,
+      full_text: 'Мне',
+      text: 'Мне',
+      text_entities: [Array]
+    },
+    {
+      id: 64,
+      type: 'message',
+      date: '2023-01-06T15:33:26',
+      date_unixtime: '1673012006',
+      from: 'аграфена',
+      from_id: 'user621150880',
+      full_text: 'аок',
+      text: 'аок',
+      text_entities: [Array]
+    },
+    {
+      id: 65,
+      type: 'message',
+      date: '2023-01-06T15:33:27',
+      date_unixtime: '1673012007',
+      from: 'Ⓑⓛⓤⓔⓑⓔⓡⓡⓨ.ⓗⓨⓛⓔ',
+      from_id: 'user1643704834',
+      full_text: 'Запишу',
+      text: 'Запишу',
+      text_entities: [Array]
+    },
+    {
+      id: 66,
+      type: 'message',
+      date: '2023-01-06T15:33:57',
+      date_unixtime: '1673012037',
+      from: 'аграфена',
+      from_id: 'user621150880',
+      full_text: 'ща цифру придумаю',
+      text: 'ща цифру придумаю',
+      text_entities: [Array]
+    },
+    {
+      id: 67,
+      type: 'message',
+      date: '2023-01-06T15:35:31',
+      date_unixtime: '1673012131',
+      from: 'Ⓑⓛⓤⓔⓑⓔⓡⓡⓨ.ⓗⓨⓛⓔ',
+      from_id: 'user1643704834',
+      full_text: 'Я возможно скоро пропаду на часа пол',
+      text: 'Я возможно скоро пропаду на часа пол',
+      text_entities: [Array]
+    },
+    {
+      id: 68,
+      type: 'message',
+      date: '2023-01-06T15:36:37',
+      date_unixtime: '1673012197',
+      from: 'аграфена',
+      from_id: 'user621150880',
+      full_text: 'а с того чата типо ливать?',
+      text: 'а с того чата типо ливать?',
+      text_entities: [Array]
+    },
+    {
+      id: 69,
+      type: 'message',
+      date: '2023-01-06T15:37:14',
+      date_unixtime: '1673012234',
+      from: null,
+      from_id: 'user5611491613',
+      reply_to_message_id: 68,
+      full_text: 'та пока будь',
+      text: 'та пока будь',
+      text_entities: [Array]
+    },
+    {
+      id: 70,
+      type: 'message',
+      date: '2023-01-06T15:37:20',
+      date_unixtime: '1673012240',
+      from: null,
+      from_id: 'user5611491613',
+      full_text: 'и друзей зовите',
+      text: 'и друзей зовите',
+      text_entities: [Array]
+    },
+    {
+      id: 71,
+      type: 'message',
+      date: '2023-01-06T15:37:24',
+      date_unixtime: '1673012244',
+      edited: '2023-01-06T15:37:49',
+      edited_unixtime: '1673012269',
+      from: null,
+      from_id: 'user5611491613',
+      full_text: 'тут еще привноты будут',
+      text: 'тут еще привноты будут',
+      text_entities: [Array]
+    },
+    {
+      id: 72,
+      type: 'message',
+      date: '2023-01-06T15:37:52',
+      date_unixtime: '1673012272',
+      from: 'аграфена',
+      from_id: 'user621150880',
+      full_text: 'кайф',
+      text: 'кайф',
+      text_entities: [Array]
+    },
+    {
+      id: 73,
+      type: 'message',
+      date: '2023-01-06T15:37:58',
+      date_unixtime: '1673012278',
+      edited: '2023-01-06T15:38:21',
+      edited_unixtime: '1673012301',
+      from: 'Ⓑⓛⓤⓔⓑⓔⓡⓡⓨ.ⓗⓨⓛⓔ',
+      from_id: 'user1643704834',
+      full_text: 'Активнее записывайтесь)',
+      text: 'Активнее записывайтесь)',
+      text_entities: [Array]
+    },
+    {
+      id: 74,
+      type: 'message',
+      date: '2023-01-06T15:38:29',
+      date_unixtime: '1673012309',
+      from: 'Ⓑⓛⓤⓔⓑⓔⓡⓡⓨ.ⓗⓨⓛⓔ',
+      from_id: 'user1643704834',
+      full_text: 'Всё телефон сел,через пол часа +- буду',
+      text: 'Всё телефон сел,через пол часа +- буду',
+      text_entities: [Array]
+    },
+    {
+      id: 75,
+      type: 'message',
+      date: '2023-01-06T15:38:42',
+      date_unixtime: '1673012322',
+      edited: '2023-01-06T15:38:48',
+      edited_unixtime: '1673012328',
+      from: 'Ⓑⓛⓤⓔⓑⓔⓡⓡⓨ.ⓗⓨⓛⓔ',
+      from_id: 'user1643704834',
+      full_text: 'Прийду всех запишу',
+      text: 'Прийду всех запишу',
+      text_entities: [Array]
+    },
+    {
+      id: 76,
+      type: 'message',
+      date: '2023-01-06T15:38:56',
+      date_unixtime: '1673012336',
+      edited: '2023-01-06T15:47:38',
+      edited_unixtime: '1673012858',
+      from: null,
+      from_id: 'user5193469066',
+      photo: 'photos/photo_6@06-01-2023_15-38-56.jpg',
+      width: 720,
+      height: 1280,
+      media_group_id: 0,
+      full_text: 'Любе мисце',
+      text: 'Любе мисце',
+      text_entities: [Array]
+    },
+    {
+      id: 77,
+      type: 'message',
+      date: '2023-01-06T15:39:07',
+      date_unixtime: '1673012347',
+      from: 'Вапринов Торпакенов',
+      from_id: 'user5431412633',
+      reply_to_message_id: 73,
+      full_text: 'Бразику, відправкою чи як?',
+      text: 'Бразику, відправкою чи як?',
+      text_entities: [Array]
+    },
+    {
+      id: 78,
+      type: 'service',
+      date: '2023-01-06T15:39:08',
+      date_unixtime: '1673012348',
+      actor: null,
+      actor_id: 'user5416866347',
+      action: 'join_group_by_link',
+      inviter: 'Group',
+      full_text: '',
+      text: '',
+      text_entities: []
+    },
+    {
+      id: 80,
+      type: 'service',
+      date: '2023-01-06T15:39:29',
+      date_unixtime: '1673012369',
+      actor: null,
+      actor_id: 'user5416866347',
+      action: 'invite_members',
+      members: [Array],
+      full_text: '',
+      text: '',
+      text_entities: []
+    },
+    {
+      id: 81,
+      type: 'service',
+      date: '2023-01-06T15:39:51',
+      date_unixtime: '1673012391',
+      actor: null,
+      actor_id: 'user5416866347',
+      action: 'invite_members',
+      members: [Array],
+      full_text: '',
+      text: '',
+      text_entities: []
+    },
+    {
+      id: 82,
+      type: 'service',
+      date: '2023-01-06T15:39:51',
+      date_unixtime: '1673012391',
+      actor: null,
+      actor_id: 'user5416866347',
+      action: 'invite_members',
+      members: [Array],
+      full_text: '',
+      text: '',
+      text_entities: []
+    },
+    {
+      id: 83,
+      type: 'message',
+      date: '2023-01-06T15:43:14',
+      date_unixtime: '1673012594',
+      from: 'аграфена',
+      from_id: 'user621150880',
+      full_text: 'а отот конкурс с рисунками вообще действителен еще?',
+      text: 'а отот конкурс с рисунками вообще действителен еще?',
+      text_entities: [Array]
+    },
+    {
+      id: 84,
+      type: 'message',
+      date: '2023-01-06T15:43:20',
+      date_unixtime: '1673012600',
+      from: 'аграфена',
+      from_id: 'user621150880',
+      full_text: 'будут резы?',
+      text: 'будут резы?',
+      text_entities: [Array]
+    },
+    {
+      id: 85,
+      type: 'service',
+      date: '2023-01-06T15:43:41',
+      date_unixtime: '1673012621',
+      actor: 'Сергей',
+      actor_id: 'user5918029141',
+      action: 'remove_members',
+      members: [Array],
+      full_text: '',
+      text: '',
+      text_entities: []
+    },
+    {
+      id: 86,
+      type: 'service',
+      date: '2023-01-06T16:06:34',
+      date_unixtime: '1673013994',
+      actor: 'Макс',
+      actor_id: 'user483997153',
+      action: 'join_group_by_link',
+      inviter: 'Group',
+      full_text: '',
+      text: '',
+      text_entities: []
+    },
+    {
+      id: 87,
+      type: 'service',
+      date: '2023-01-06T16:09:14',
+      date_unixtime: '1673014154',
+      actor: '🐼',
+      actor_id: 'user1792872771',
+      action: 'invite_members',
+      members: [Array],
+      full_text: '',
+      text: '',
+      text_entities: []
+    },
+    {
+      id: 88,
+      type: 'service',
+      date: '2023-01-06T16:09:14',
+      date_unixtime: '1673014154',
+      actor: '🐼',
+      actor_id: 'user1792872771',
+      action: 'invite_members',
+      members: [Array],
+      full_text: '',
+      text: '',
+      text_entities: []
+    },
+    {
+      id: 89,
+      type: 'service',
+      date: '2023-01-06T16:09:54',
+      date_unixtime: '1673014194',
+      actor: '🐼',
+      actor_id: 'user1792872771',
+      action: 'invite_members',
+      members: [Array],
+      full_text: '',
+      text: '',
+      text_entities: []
+    },
+    {
+      id: 90,
+      type: 'service',
+      date: '2023-01-06T16:12:24',
+      date_unixtime: '1673014344',
+      actor: "ШУКАЮ КУР'ЄРА ЛЬВІВ ВСІ МІСТА banderx.top",
+      actor_id: 'user2019810365',
+      action: 'join_group_by_link',
+      inviter: 'Group',
+      full_text: '',
+      text: '',
+      text_entities: []
+    },
+    {
+      id: 91,
+      type: 'message',
+      date: '2023-01-06T16:13:19',
+      date_unixtime: '1673014399',
+      from: null,
+      from_id: 'user5611491613',
+      reply_to_message_id: 83,
+      full_text: 'да, сегодня ночью',
+      text: 'да, сегодня ночью',
+      text_entities: [Array]
+    },
+    {
+      id: 92,
+      type: 'message',
+      date: '2023-01-06T16:16:39',
+      date_unixtime: '1673014599',
+      from: 'Вапринов Торпакенов',
+      from_id: 'user5431412633',
+      reply_to_message_id: 91,
+      full_text: 'А куди ж дівся список?',
+      text: 'А куди ж дівся список?',
+      text_entities: [Array]
+    },
+    {
+      id: 93,
+      type: 'message',
+      date: '2023-01-06T16:16:57',
+      date_unixtime: '1673014617',
+      from: null,
+      from_id: 'user5611491613',
+      reply_to_message_id: 92,
+      full_text: 'в старом чате и на форуме',
+      text: 'в старом чате и на форуме',
+      text_entities: [Array]
+    },
+    {
+      id: 94,
+      type: 'message',
+      date: '2023-01-06T16:17:02',
+      date_unixtime: '1673014622',
+      from: null,
+      from_id: 'user5611491613',
+      full_text: 'не переживай',
+      text: 'не переживай',
+      text_entities: [Array]
+    },
+    {
+      id: 95,
+      type: 'message',
+      date: '2023-01-06T16:17:26',
+      date_unixtime: '1673014646',
+      from: 'аграфена',
+      from_id: 'user621150880',
+      reply_to_message_id: 91,
+      full_text: 'оки',
+      text: 'оки',
+      text_entities: [Array]
+    },
+    {
+      id: 96,
+      type: 'message',
+      date: '2023-01-06T16:17:31',
+      date_unixtime: '1673014651',
+      from: 'Вапринов Торпакенов',
+      from_id: 'user5431412633',
+      reply_to_message_id: 94,
+      full_text: 'Знайшов)))',
+      text: 'Знайшов)))',
+      text_entities: [Array]
+    },
+    {
+      id: 97,
+      type: 'message',
+      date: '2023-01-06T16:17:45',
+      date_unixtime: '1673014665',
+      edited: '2023-01-06T16:18:29',
+      edited_unixtime: '1673014709',
+      from: null,
+      from_id: 'user5611491613',
+      full_text: 'напомните мне к 22.00',
+      text: 'напомните мне к 22.00',
+      text_entities: [Array]
+    },
+    {
+      id: 98,
+      type: 'service',
+      date: '2023-01-06T16:18:16',
+      date_unixtime: '1673014696',
+      actor: 'я наслаждаюсь вечеринкой, пока не засну.',
+      actor_id: 'user559101384',
+      action: 'remove_members',
+      members: [Array],
+      full_text: '',
+      text: '',
+      text_entities: []
+    },
+    {
+      id: 99,
+      type: 'message',
+      date: '2023-01-06T16:30:59',
+      date_unixtime: '1673015459',
+      from: '🐼',
+      from_id: 'user1792872771',
+      reply_to_message_id: 73,
+      full_text: 'запиши́ плиз',
+      text: 'запиши́ плиз',
+      text_entities: [Array]
+    },
+    {
+      id: 107,
+      type: 'message',
+      date: '2023-01-06T16:38:12',
+      date_unixtime: '1673015892',
+      edited: '2023-01-06T16:38:39',
+      edited_unixtime: '1673015919',
+      from: null,
+      from_id: 'user5611491613',
+      reply_to_message_id: 106,
+      full_text: 'админ запишет',
+      text: 'админ запишет',
+      text_entities: [Array]
+    },
+    {
+      id: 109,
+      type: 'message',
+      date: '2023-01-06T16:38:46',
+      date_unixtime: '1673015926',
+      from: 'Ⓑⓛⓤⓔⓑⓔⓡⓡⓨ.ⓗⓨⓛⓔ',
+      from_id: 'user1643704834',
+      reply_to_message_id: 106,
+      full_text: 'Сек',
+      text: 'Сек',
+      text_entities: [Array]
+    },
+    ... 453899 more items
+  ]
+}
+analyze-text: 13.410s
